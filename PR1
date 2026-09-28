@@ -91,8 +91,3 @@ Task 10
 #!/usr/bin/env bash
 dir="$1"
 find "$dir" -type f -empty -print
-
-
-
-
-Task 10
