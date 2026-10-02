@@ -1,4 +1,1 @@
-Task 3
-#!/usr/bin/env bash
-text="$1"
-line="+"
+
